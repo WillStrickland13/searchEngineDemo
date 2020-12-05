@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/Document.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/Document.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/HashTable.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/HashTable.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/Index.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/Index.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/QueryEngine.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/QueryEngine.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/Word.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/Word.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/documentParser.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/documentParser.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/porter2_stemmer.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/porter2_stemmer.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/quickstart.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/quickstart.cpp.obj"
-  "C:/Users/leopa/OneDrive/Desktop/ForDemo/simdjson.cpp" "C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/CMakeFiles/search_engine.dir/simdjson.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Document.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/Document.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/HashTable.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/HashTable.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Index.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/Index.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/QueryEngine.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/QueryEngine.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Word.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/Word.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/documentParser.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/documentParser.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/porter2_stemmer.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/porter2_stemmer.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/quickstart.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/quickstart.cpp.obj"
+  "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/simdjson.cpp" "C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/CMakeFiles/search_engine.dir/simdjson.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

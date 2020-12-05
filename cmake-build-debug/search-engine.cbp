@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug"/>
+				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug"/>
+				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="search_engine">
-				<Option output="C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/search_engine.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug"/>
+				<Option output="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/search_engine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine"/>
-					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="search_engine/fast">
-				<Option output="C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/search_engine.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug"/>
+				<Option output="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/search_engine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,90 +63,90 @@
 					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine/fast"/>
-					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine/fast"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug"/>
+				<Option working_dir="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/AVLTree.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/AVLTree.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/Document.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Document.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/Document.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Document.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/HashTable.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/HashTable.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/HashTable.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/HashTable.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/Index.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Index.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/Index.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Index.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/QueryEngine.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/QueryEngine.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/QueryEngine.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/QueryEngine.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/Word.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Word.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/Word.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/Word.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/documentParser.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/documentParser.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/documentParser.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/documentParser.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/hash.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/hash.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/porter2_stemmer.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/porter2_stemmer.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/porter2_stemmer.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/porter2_stemmer.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/quickstart.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/quickstart.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/simdjson.cpp">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/simdjson.cpp">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/simdjson.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/simdjson.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/string_view.h">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/string_view.h">
 			<Option target="search_engine"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/00acd3fd31ed0cde8df286697caefc5298e54df1.json">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/00acd3fd31ed0cde8df286697caefc5298e54df1.json">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/CMakeLists.txt">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/leopa/OneDrive/Desktop/ForDemo/stopWords.txt">
+		<Unit filename="C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/stopWords.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

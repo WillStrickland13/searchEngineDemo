@@ -1,4 +1,4 @@
-C:\Users\leopa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\leopa\OneDrive\Desktop\ForDemo
+C:\Users\leopa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\leopa\OneDrive\Desktop\searchEngineDemo
 -- The C compiler identification is GNU 8.1.0
 -- The CXX compiler identification is GNU 8.1.0
 -- Check for working C compiler: C:/Mingw-w64/mingw32/bin/gcc.exe
@@ -15,4 +15,4 @@ C:\Users\leopa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/leopa/OneDrive/Desktop/ForDemo/cmake-build-debug
+-- Build files have been written to: C:/Users/leopa/OneDrive/Desktop/searchEngineDemo/cmake-build-debug

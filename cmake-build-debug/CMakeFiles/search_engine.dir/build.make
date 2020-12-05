@@ -62,10 +62,10 @@ RM = C:\Users\leopa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\leopa\OneDrive\Desktop\ForDemo
+CMAKE_SOURCE_DIR = C:\Users\leopa\OneDrive\Desktop\searchEngineDemo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/search_engine.dir/depend.make
@@ -78,120 +78,120 @@ include CMakeFiles/search_engine.dir/flags.make
 
 CMakeFiles/search_engine.dir/quickstart.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/quickstart.cpp.obj: ../quickstart.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/search_engine.dir/quickstart.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\quickstart.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\quickstart.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/search_engine.dir/quickstart.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\quickstart.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\quickstart.cpp
 
 CMakeFiles/search_engine.dir/quickstart.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/quickstart.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\quickstart.cpp > CMakeFiles\search_engine.dir\quickstart.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\quickstart.cpp > CMakeFiles\search_engine.dir\quickstart.cpp.i
 
 CMakeFiles/search_engine.dir/quickstart.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/quickstart.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\quickstart.cpp -o CMakeFiles\search_engine.dir\quickstart.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\quickstart.cpp -o CMakeFiles\search_engine.dir\quickstart.cpp.s
 
 CMakeFiles/search_engine.dir/simdjson.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/simdjson.cpp.obj: ../simdjson.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/search_engine.dir/simdjson.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\simdjson.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\simdjson.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/search_engine.dir/simdjson.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\simdjson.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\simdjson.cpp
 
 CMakeFiles/search_engine.dir/simdjson.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/simdjson.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\simdjson.cpp > CMakeFiles\search_engine.dir\simdjson.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\simdjson.cpp > CMakeFiles\search_engine.dir\simdjson.cpp.i
 
 CMakeFiles/search_engine.dir/simdjson.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/simdjson.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\simdjson.cpp -o CMakeFiles\search_engine.dir\simdjson.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\simdjson.cpp -o CMakeFiles\search_engine.dir\simdjson.cpp.s
 
 CMakeFiles/search_engine.dir/HashTable.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/HashTable.cpp.obj: ../HashTable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/search_engine.dir/HashTable.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\HashTable.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\HashTable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/search_engine.dir/HashTable.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\HashTable.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\HashTable.cpp
 
 CMakeFiles/search_engine.dir/HashTable.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/HashTable.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\HashTable.cpp > CMakeFiles\search_engine.dir\HashTable.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\HashTable.cpp > CMakeFiles\search_engine.dir\HashTable.cpp.i
 
 CMakeFiles/search_engine.dir/HashTable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/HashTable.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\HashTable.cpp -o CMakeFiles\search_engine.dir\HashTable.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\HashTable.cpp -o CMakeFiles\search_engine.dir\HashTable.cpp.s
 
 CMakeFiles/search_engine.dir/documentParser.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/documentParser.cpp.obj: ../documentParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/search_engine.dir/documentParser.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\documentParser.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\documentParser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/search_engine.dir/documentParser.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\documentParser.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\documentParser.cpp
 
 CMakeFiles/search_engine.dir/documentParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/documentParser.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\documentParser.cpp > CMakeFiles\search_engine.dir\documentParser.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\documentParser.cpp > CMakeFiles\search_engine.dir\documentParser.cpp.i
 
 CMakeFiles/search_engine.dir/documentParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/documentParser.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\documentParser.cpp -o CMakeFiles\search_engine.dir\documentParser.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\documentParser.cpp -o CMakeFiles\search_engine.dir\documentParser.cpp.s
 
 CMakeFiles/search_engine.dir/porter2_stemmer.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/porter2_stemmer.cpp.obj: ../porter2_stemmer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/search_engine.dir/porter2_stemmer.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\porter2_stemmer.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\porter2_stemmer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/search_engine.dir/porter2_stemmer.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\porter2_stemmer.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\porter2_stemmer.cpp
 
 CMakeFiles/search_engine.dir/porter2_stemmer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/porter2_stemmer.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\porter2_stemmer.cpp > CMakeFiles\search_engine.dir\porter2_stemmer.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\porter2_stemmer.cpp > CMakeFiles\search_engine.dir\porter2_stemmer.cpp.i
 
 CMakeFiles/search_engine.dir/porter2_stemmer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/porter2_stemmer.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\porter2_stemmer.cpp -o CMakeFiles\search_engine.dir\porter2_stemmer.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\porter2_stemmer.cpp -o CMakeFiles\search_engine.dir\porter2_stemmer.cpp.s
 
 CMakeFiles/search_engine.dir/Document.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/Document.cpp.obj: ../Document.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/search_engine.dir/Document.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\Document.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\Document.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/search_engine.dir/Document.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\Document.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Document.cpp
 
 CMakeFiles/search_engine.dir/Document.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/Document.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\Document.cpp > CMakeFiles\search_engine.dir\Document.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Document.cpp > CMakeFiles\search_engine.dir\Document.cpp.i
 
 CMakeFiles/search_engine.dir/Document.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/Document.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\Document.cpp -o CMakeFiles\search_engine.dir\Document.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Document.cpp -o CMakeFiles\search_engine.dir\Document.cpp.s
 
 CMakeFiles/search_engine.dir/Word.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/Word.cpp.obj: ../Word.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/search_engine.dir/Word.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\Word.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\Word.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/search_engine.dir/Word.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\Word.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Word.cpp
 
 CMakeFiles/search_engine.dir/Word.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/Word.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\Word.cpp > CMakeFiles\search_engine.dir\Word.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Word.cpp > CMakeFiles\search_engine.dir\Word.cpp.i
 
 CMakeFiles/search_engine.dir/Word.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/Word.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\Word.cpp -o CMakeFiles\search_engine.dir\Word.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Word.cpp -o CMakeFiles\search_engine.dir\Word.cpp.s
 
 CMakeFiles/search_engine.dir/Index.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/Index.cpp.obj: ../Index.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/search_engine.dir/Index.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\Index.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\Index.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/search_engine.dir/Index.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\Index.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Index.cpp
 
 CMakeFiles/search_engine.dir/Index.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/Index.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\Index.cpp > CMakeFiles\search_engine.dir\Index.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Index.cpp > CMakeFiles\search_engine.dir\Index.cpp.i
 
 CMakeFiles/search_engine.dir/Index.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/Index.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\Index.cpp -o CMakeFiles\search_engine.dir\Index.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\Index.cpp -o CMakeFiles\search_engine.dir\Index.cpp.s
 
 CMakeFiles/search_engine.dir/QueryEngine.cpp.obj: CMakeFiles/search_engine.dir/flags.make
 CMakeFiles/search_engine.dir/QueryEngine.cpp.obj: ../QueryEngine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/search_engine.dir/QueryEngine.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\QueryEngine.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\ForDemo\QueryEngine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/search_engine.dir/QueryEngine.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\search_engine.dir\QueryEngine.cpp.obj -c C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\QueryEngine.cpp
 
 CMakeFiles/search_engine.dir/QueryEngine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/search_engine.dir/QueryEngine.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\ForDemo\QueryEngine.cpp > CMakeFiles\search_engine.dir\QueryEngine.cpp.i
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\QueryEngine.cpp > CMakeFiles\search_engine.dir\QueryEngine.cpp.i
 
 CMakeFiles/search_engine.dir/QueryEngine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/search_engine.dir/QueryEngine.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\ForDemo\QueryEngine.cpp -o CMakeFiles\search_engine.dir\QueryEngine.cpp.s
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\QueryEngine.cpp -o CMakeFiles\search_engine.dir\QueryEngine.cpp.s
 
 # Object files for target search_engine
 search_engine_OBJECTS = \
@@ -221,7 +221,7 @@ search_engine.exe: CMakeFiles/search_engine.dir/build.make
 search_engine.exe: CMakeFiles/search_engine.dir/linklibs.rsp
 search_engine.exe: CMakeFiles/search_engine.dir/objects1.rsp
 search_engine.exe: CMakeFiles/search_engine.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable search_engine.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable search_engine.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\search_engine.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -234,6 +234,6 @@ CMakeFiles/search_engine.dir/clean:
 .PHONY : CMakeFiles/search_engine.dir/clean
 
 CMakeFiles/search_engine.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\leopa\OneDrive\Desktop\ForDemo C:\Users\leopa\OneDrive\Desktop\ForDemo C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug C:\Users\leopa\OneDrive\Desktop\ForDemo\cmake-build-debug\CMakeFiles\search_engine.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\leopa\OneDrive\Desktop\searchEngineDemo C:\Users\leopa\OneDrive\Desktop\searchEngineDemo C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug C:\Users\leopa\OneDrive\Desktop\searchEngineDemo\cmake-build-debug\CMakeFiles\search_engine.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/search_engine.dir/depend
 
